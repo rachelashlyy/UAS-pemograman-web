@@ -1,5 +1,5 @@
 # UAS-pemograman-web
-UAS Pemograman Web Deploy ke dalam sebuah website statis dengan endpoint
+FINAL PROJECT
 kelompok 6 kelas TIK2032D
 
 Anggota Kelompok 6
